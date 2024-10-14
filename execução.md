@@ -15,7 +15,6 @@ O teste foi conduzido de acordo com as seguintes diretrizes:
 
 1. **Início das Atividades:** Cada participante começou a tarefa após uma breve demonstração do aplicativo.
 2. **Observação dos Avaliadores:** Os avaliadores monitoraram as interações, anotando comportamentos, comentários e eventuais dificuldades encontradas.
-3. **Registro de Interações:** As gravações de tela foram realizadas para permitir uma análise posterior das interações dos usuários.
 
 ### Orientações Abordadas pelos Avaliadores
 
