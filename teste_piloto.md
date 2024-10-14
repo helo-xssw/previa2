@@ -29,7 +29,7 @@ O ambiente de teste foi configurado conforme planejado e atendeu às expectativa
 Durante o teste, foram observados alguns erros inesperados:
 
 1. **Troca de Tarefa:** Durante o teste piloto uma tarefa foi alterada por não seguir a mesma direção das demais o que ocasionou em o usuário ter que voltar a uma tarefa que já havia realizado:
-   - A tarefa substituida foi a número **6. Comparar Produtos**.
+   - A tarefa substituida foi a número "**6. Comparar Produtos**".
    - A nova tarefa escolhida para ocupar o lugar da anterior foi a **Selecionar Cor e Quantidade do Produto**.
 
 2. **Problemas na Transmissão de Tela:** Antes de iniciar o teste o facilitador encontrou dificuldades para transmitir a tela do dispositivo do usuário para seu notebook.
