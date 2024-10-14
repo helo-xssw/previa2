@@ -40,5 +40,5 @@ Durante o teste, foram observados alguns erros inesperados:
 
 Após o teste piloto, as seguintes ações corretivas foram propostas:
 
-- **Troca de Tarefa:** Garantir que o usuário mantivesse sua linha de raciocínio durante a execução do teste.
+- **Troca de Tarefa:** Foi realizada para que o usuário mantivesse sua linha de raciocínio durante a execução do teste.
 - **Ativar Função:** Após o problema de transmissão de tela no teste piloto foi revisado se os dispositivos do demais participantes tinham a função necessária para a transmissão ativada.
