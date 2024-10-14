@@ -1,20 +1,28 @@
 # Planejamento
 
- O teste de usabilidade tem como objetivo realizar uma avaliação de design de interfaces ou produtos a fim de reconhecer dificuldades ou barreiras que o usuário possa enfrentar ao utilizar o sistema. Ele ocorre
+O teste de usabilidade tem como objetivo avaliar como usuários reais interagem com um produto digital, como um site ou aplicativo. Para iniciar um teste de usabilidade, é preciso ter objetivos claros, que servirão como base para o desenvolvimento do teste. Após a definição dos objetivos, é necessário selecionar participantes que representem o público-alvo que o produto digital deseja alcançar.
+
+Após o recrutamento dos participantes, são elaborados cenários de teste que simulam tarefas reais que os usuários executariam em sua rotina normal com o app/site. O ambiente onde o teste pode ser realizado varia entre laboratório ou remotamente, dependendo das necessidades do estudo.
+
+Durante a execução do teste, os participantes são observados pelo facilitador enquanto realizam as tarefas propostas. É de suma importância que o facilitador não interfira durante esse processo, para que os usuários possam expressar suas opiniões e reações de forma espontânea. A coleta de dados pode ocorrer tanto de forma quantitativa (através de métricas, como, por exemplo, o tempo gasto para completar uma tarefa) quanto de forma qualitativa (comentários e observações).
+
+Após a coleta de dados, é realizada uma análise para identificar falhas e problemas de usabilidade. Essa análise é fundamental para entender o que afeta a facilidade de uso do usuário, além de fornecer insights valiosos. O resultado do teste é um relatório que apresenta descobertas e recomendações, que podem ser implementadas na próxima fase de desenvolvimento.
+
+
 
 ## 1. Objetivo do Teste
 
-  Avaliar a usabilidade de um novo aplicativo de finanças pessoais, focando em como os usuários interagem com as funcionalidades de registro de despesas e visualização de relatórios.
+  Avaliar a usabilidade do aplicativo de compras online **Shopee**, com foco em como os usuários interagem com as funcionalidades do sistema para realizar uma compra.
 
 ## 2. Perfis dos Usuários
 
-  **Usuário 1:** Estudante universitário
+  **Usuário 1:** Estudante universitário de Engenharia de Produção, 24 anos, não possui afinidade com o aplicativo **Shopee** ou outro sistema de *e-commerce*.
   
-  **Usuário 2:** Estudante universitário
+  **Usuário 2:** Bacharel em Engenharia de Software, 25 anos, não possui afinidade com o aplicativo **Shopee** mas já usou o *e-commerce* **Amazon**. 
   
-  **Usuário 3:** Profissional
+  **Usuário 3:** Estudante universitária de Engenharia Florestal, 24 anos, possui afinidade com o aplicativo **Shopee**.
   
-  **Usuário 4:** Bacharel em Engenharia de Software, 25 anos, realiza compras online com frequência e possui afinidade com tecnologia.
+  **Usuário 4:** Professora de química, 43 anos, não possui afinidade com o aplicativo **Shopee** ou outro sistema de *e-commerce*.
 
 ## 3. Métricas
 
@@ -75,7 +83,7 @@ A técnica de Thinking Aloud foi empregada para entender o raciocínio dos usuá
 |-----------------------------------------|-------------------------------------------|
 | "Não sei onde encontrar essa função."  | Indica que a navegação não é clara.      |
 | "Esse botão parece confuso."            | Sugere necessidade de redesign.           |
-| "Estou me sentindo perdido aqui."      | Aponta para uma possível falta de orientações. |
+| "Depois dessa etapa, o que eu faço?"      | Aponta para uma possível falta de orientações. |
 
 ![Exemplo de Anotações de Thinking Aloud](link-para-imagem-anotacoes-thinking-aloud.png)
 
