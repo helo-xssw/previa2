@@ -8,29 +8,37 @@ O teste piloto foi realizado com um dos participantes selecionados para validar 
 
 1. **Instruções Iniciais:** O participante foi instruído sobre o propósito do teste e as tarefas que deveria realizar.
 2. **Tarefas Propostas:** As seguintes tarefas foram designadas ao participante:
-   - Navegar até a seção de configurações do aplicativo.
-   - Realizar o login com credenciais fornecidas.
-   - Adicionar um item à lista de favoritos.
+
+|    Número   |         Tarefa          |   Especificação  |
+|-------------|-------------------------|------------------|
+|1|  **Navegar na Homepage**   | O particante deve abrir o aplicativo e identificar as principais seções da homepage.|
+|2| **Buscar um Produto Específico** | É solicitado que o participante busque um produto específico no aplicativo.     |
+|3| **Filtrar Resultados** | Após a busca pelo produto o participante deve aplicar filtros (ex: preço ou avaliação).|
+|5| **Adicionar um Produto ao carrinho** | O participante deve adicionar o item buscado no carrinho.|
+|6| **Selecionar Cor e Quantidade do Produto** | Durante o processo de adicionar o item ao carrinho o participante deve escolher uma cor específica e adicionar a quantidade desejada.|
+|7| **Finalizar uma Compra** | O participante deve simular uma compra. |
+|8| **Buscar Suporte ou Ajuda** | Após finalizada as demais atividades, o participante deve encontrar informações sobre suporte ou ajuda no aplicativo.|
+
 
 ### Avaliação do Ambiente
 
-O ambiente de teste foi configurado conforme planejado e atendeu às expectativas. A sala estava silenciosa e os equipamentos funcionaram corretamente. A gravação da tela foi realizada sem interrupções, permitindo uma análise clara das interações.
+O ambiente de teste foi configurado conforme planejado e atendeu às expectativas. A sala estava silenciosa e os equipamentos funcionaram corretamente.
 
 ## Erros Inesperados
 
 Durante o teste, foram observados alguns erros inesperados:
 
-1. **Problema de Conexão:** O participante enfrentou uma falha momentânea na conexão com a internet ao tentar fazer login. Para resolver isso:
-   - A conexão foi restabelecida rapidamente.
-   - O participante foi instruído a tentar novamente, o que resultou em sucesso.
+1. **Troca de Tarefa:** Durante o teste piloto uma tarefa foi alterada por não seguir a mesma direção das demais o que ocasionou em o usuário ter que voltar a uma tarefa que já tinha realizado:
+   - A tarefa substituida foi a número **6. Comparar Produtos**.
+   - A nova tarefa escolhida para ocupar o lugar da anterior foi a **Selecionar Cor e Quantidade do Produto**.
 
-2. **Funcionalidade Não Intuitiva:** Ao tentar adicionar um item à lista de favoritos, o participante ficou confuso sobre o botão a ser pressionado. Observações:
-   - O participante comentou: "Não estou vendo onde posso favoritar este item."
-   - Para corrigir, foi decidido melhorar a visibilidade do botão em futuras iterações do aplicativo.
+2. **Problemas na Transmissão de Tela:** Antes de iniciar o teste o facilitador encontrou dificuldades para transmitir a tela do dispositivo do usuário para seu notebook.
+   - O problema foi ocasionado por uma função do dispositivo do usuário que estava desativada, o que impossibilitou a conexão com o notebook.
+   - Após a ativação da função, o facilitador conseguiu transmitir a tela do dispositivo do usuário em seu notebook, e o teste pode ocorrer sem outras interrupções.
 
 ### Ações Corretivas
 
 Após o teste piloto, as seguintes ações corretivas foram propostas:
 
-- **Melhorar a Conexão:** Garantir que uma conexão de internet estável esteja disponível para todos os testes futuros.
-- **Revisar a Interface do Usuário:** Considerar um redesign na interface para tornar as funcionalidades mais intuitivas e visíveis.
+- **Troca de Tarefa:** Garantir que o usuário mantivesse sua linha de raciocínio durante a execução do teste.
+- **Ativar Função:** Após o problema de transmissão de tela no teste piloto foi revisado se os dispositivos do demais participantes tinham a função necessária para a transmissão ativada.
