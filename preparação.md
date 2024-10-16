@@ -31,5 +31,5 @@ Todos os participantes assinaram o Termo de Consentimento Livre e Esclarecido (T
 - **Direitos dos Participantes:** Garantimos que os participantes tinham o direito de se retirar do estudo a qualquer momento sem penalizações.
 - **Confidencialidade:** As informações coletadas seriam tratadas de forma confidencial e utilizadas apenas para fins de análise do teste.
 
-![Exemplo do Termo de Consentimento](link-para-imagem-tcle.png)
+![Exemplo do Termo de Consentimento](https://github.com/helo-xssw/previa2/blob/main/TCLE%20-%20Modelo.pdf)
 
