@@ -42,7 +42,7 @@ Nesta seção, apresentamos as métricas que serão utilizadas para avaliar o de
 - **Descrição:** Tempo médio gasto pelos participantes para concluir cada tarefa.
 - **Fórmula:** 
 
-  ![image](https://github.com/user-attachments/assets/a93f2652-7d7f-4ced-bc24-518c2840c1c9)
+  [![Captura-de-tela-2024-10-16-125926.png](https://i.postimg.cc/QxQ7hz3P/Captura-de-tela-2024-10-16-125926.png)](https://postimg.cc/hfGv0phb)
 
 
 ### 3.4 Satisfação
