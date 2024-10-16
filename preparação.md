@@ -19,7 +19,7 @@ Quatro usuários foram recrutados para participar do teste. O processo de recrut
 
 Os participantes eram compostos por:
 
-- **Idade:** Variando entre 24 e 43 anos.
+- **Idade:** Variando entre 24 a 43 anos.
 - **Gênero:** Mistura de gêneros, promovendo diversidade.
 - **Experiência:** Usuários com diferentes níveis de experiência em tecnologia, desde iniciantes até usuários avançados.
 
