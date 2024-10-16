@@ -77,6 +77,8 @@ A técnica de Thinking Aloud foi empregada para entender o raciocínio dos usuá
 - **Processos de decisão:** Foi possível observar como os usuários tomavam decisões ao navegar no aplicativo.
 - **Identificação de funcionalidades que não eram intuitivas:** Comentários verbais ajudaram a destacar áreas que precisavam de melhorias.
 
+  Vídeo sobre a técnica *Thinking Aloud*: https://www.youtube.com/watch?v=qQxq5Muo5GI
+
 ### Exemplo de Anotações de Thinking Aloud
 
 | Comentário do Usuário                   | Análise                                    |
@@ -85,7 +87,6 @@ A técnica de Thinking Aloud foi empregada para entender o raciocínio dos usuá
 | "Esse botão parece confuso."            | Sugere necessidade de redesign.           |
 | "Depois dessa etapa, o que eu faço?"      | Aponta para uma possível falta de orientações. |
 
-![Exemplo de Anotações de Thinking Aloud](link-para-imagem-anotacoes-thinking-aloud.png)
 
 
   
