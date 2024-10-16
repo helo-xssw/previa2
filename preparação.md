@@ -31,8 +31,17 @@ Todos os participantes assinaram o Termo de Consentimento Livre e Esclarecido (T
 - **Direitos dos Participantes:** Garantimos que os participantes tinham o direito de se retirar do estudo a qualquer momento sem penalizações.
 - **Confidencialidade:** As informações coletadas seriam tratadas de forma confidencial e utilizadas apenas para fins de análise do teste.
 - **Registro do Termo de Consentimento sendo assinado:**
-  OBS: O termo assinado dos demais partipantes está nos links abaixo:
-  
+
+OBS: O termo assinado dos demais partipantes está nos links abaixo:
+
+(inserir link)
+
+(inserir link)
+
+(inserir link)
+
+(inserir link)
+   
   
 
   <img src="https://i.postimg.cc/vH7tmTyG/Whats-App-Image-2024-10-16-at-11-49-27.jpg" alt= "Exemplo da Imagem" width="200"> 
