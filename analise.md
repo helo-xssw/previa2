@@ -60,6 +60,15 @@ Apesar de alguns usuários enfrentarem dificuldades ao realizar uma tarefa, todo
   | 9      | "Eu me sinto confortável usando o sistema."|     3     |       2    |       5    |     3      |
   | 10     | "Eu acho que, na maioria das vezes, o sistema é muito instável."|     5     |       5    |       3    |     1      |
   
+  **Média das Respostas para cada Afirmativa:**
+
+  **Legenda**
+  | Nível de Satisfação | Média | Indica |
+  |---------------------|-------|--------|
+  | Alto                | 4-5   | Usuários estão satifeitos com esse aspecto do sistema |
+  | Médio               | 3     | Neutralidade, indica que há espaço para melhorias |
+  | Baixo               | 2-1   | Indicam insatisfação e áreas críticas a serem abordadas |
+
   
 
 
