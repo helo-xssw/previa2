@@ -31,9 +31,8 @@ Nesta seção, apresentamos as métricas que serão utilizadas para avaliar o de
 ### 3.1 Sucesso
 - **Descrição:** Percentual de tarefas completadas com êxito pelos participantes.
 - **Fórmula:** 
-  \[
-  \text{Sucesso} (\%) = \left( \frac{\text{Número de tarefas concluídas com êxito}}{\text{Número total de tarefas}} \right) \times 100
-  \]
+
+  [![Captura-de-tela-2024-10-16-095846.png](https://i.postimg.cc/6QXKf7Zy/Captura-de-tela-2024-10-16-095846.png)](https://postimg.cc/LJNGH8Np)
 
 ### 3.2 Erros
 - **Descrição:** Número total de erros cometidos pelos participantes durante a execução das tarefas.
@@ -42,18 +41,14 @@ Nesta seção, apresentamos as métricas que serão utilizadas para avaliar o de
 ### 3.3 Tempo
 - **Descrição:** Tempo médio gasto pelos participantes para concluir cada tarefa.
 - **Fórmula:** 
-  \[
-  \text{Tempo Médio} = \frac{\text{Soma do tempo gasto em todas as tarefas}}{\text{Número total de tarefas}}
-  \]
+
+  ![image](https://github.com/user-attachments/assets/a93f2652-7d7f-4ced-bc24-518c2840c1c9)
+
 
 ### 3.4 Satisfação
-- **Descrição:** Avaliação da satisfação dos participantes, medida em uma escala de 1 a 5.
-  - **1:** Muito insatisfeito
-  - **2:** Insatisfeito
-  - **3:** Neutro
-  - **4:** Satisfeito
-  - **5:** Muito satisfeito
-- **Método de Coleta:** Aplicar questionário de satisfação imediatamente após a conclusão das tarefas.
+- **Descrição:** Avaliação da satisfação dos participantes, medida em uma escala de 1 a 5, onde 1 representa "Discordo totalmente" e 5 representa "Concordo totalmente". As afirmativas abordam diferentes aspectos da experiência do usuário, como a usabilidade da interface e a clareza das instruções.
+
+- **Método de Coleta:** Um questionário foi aplicado imediatamente após a conclusão das tarefas, contendo 10 afirmativas que os participantes deveriam avaliar. As respostas foram registradas e analisadas para calcular a média de satisfação, permitindo identificar pontos fortes e áreas de melhoria na experiência do usuário.
 
 ### 3.5 Resumo das Métricas
 | Métrica    | Descrição                                       |
