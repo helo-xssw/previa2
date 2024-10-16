@@ -37,14 +37,21 @@ Os dados coletados foram organizados em tabelas e gráficos, permitindo uma visu
 | Usuário 3 | 2               | 0                    |
 | Usuário 4 | 5               | 2                    | 
 
+### Taxa de Sucesso 
+
+Apesar de alguns usuários enfrentarem dificuldades ao realizar uma tarefa, todos conseguiram finalizar as 8 tarefas propostas. Portanto a taxa de sucesso foi de **100%**. 
+
 ### Interpretação
 
 A partir da tabela, podemos observar que:
 
 - Os usuários demoraram mais para realizar as seguintes atividades:
-  1. Atividade 3:
-  2. Atividade 4:
-  3. Atividade 7: 
+
+   **Atividade 3:** Filtrar Resultados
+
+  **Atividade 4:** Verificar a Página do Produto
+
+   **Atividade 7:** Finalizar uma Compra 
   
 - O número médio de erros foi de **4 erros** por usuário.
 
