@@ -28,7 +28,3 @@ Os avaliadores forneceram as seguintes orientações aos participantes durante o
 
 Após a conclusão das tarefas, os avaliadores agradeceram aos participantes pela colaboração e solicitaram mais um feedback dos usuários por meio de um questionário para medir a satisfação dos participantes ao usar o aplicativo.
 
-## Resultados
-
-A execução do teste revelou pontos positivos e áreas que requerem melhorias. As observações feitas durante o processo fornecerão insights valiosos para aprimorar a usabilidade do aplicativo.
-
