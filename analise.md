@@ -10,17 +10,43 @@ Os dados coletados foram organizados em tabelas e gráficos, permitindo uma visu
 
 | Usuário   | Atividade 1 | Atividade 2 | Atividade 3 | Atividade 4 | Atividade 5 | Atividade 6 | Atividade 7 | Atividade 8 | Tempo Médio (min) |
 |-----------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------------|
-| Usuário 1 | 144s | 35s | 248s | 146s | 30s | 25s | 282s | 45s |  |
-| Usuário 2 | 54s | 16s | 24s | 20s | 28s | 37s | 30s | 23s |  |
-| Usuário 3 | 52s | 17s | 71s | 101s | 12s | 10s | 62s | 40s |  |
-| Usuário 4 | 41s | 41s | 18s | 283s | 49s | 24s | 49s | 51s |  |
+| Usuário 1 | 144s | 35s | 248s | 146s | 30s | 25s | 282s | 45s | 955s |
+| Usuário 2 | 54s  | 16s | 24s  | 20s  | 28s | 37s | 30s  | 23s | 29s  |
+| Usuário 3 | 52s  | 17s | 71s  | 101s | 12s | 10s | 62s  | 40s | 45s  |
+| Usuário 4 | 41s  | 41s | 18s  | 283s | 49s | 24s | 49s  | 51s | 69s  |
+
+### Tempo Médio Gasto das Atividades
+
+| Atividade      | Soma do Tempo (s) | Média do Tempo (s) | Tempo Médio (min:seg) |
+|----------------|--------------------|---------------------|-----------------------|
+| Atividade 1    | 291s               | 72s                 | 1:12                  |
+| Atividade 2    | 109s               | 27s                 | 0:27                  |
+| Atividade 3    | 361s               | 90s                 | 1:30                  |
+| Atividade 4    | 550s               | 137s                | 2:17                  |
+| Atividade 5    | 119s               | 29s                 | 0:29                  |
+| Atividade 6    | 96s                | 24s                 | 0:24                  |
+| Atividade 7    | 423s               | 105s                | 1:45                  |
+| Atividade 8    | 159                | 39s                 | 0:39                  |
+
+### Tabela de Erros e Solicitação de Ajuda
+
+| Usuário   | Número de Erros | Solicitação de Ajuda |
+|-----------|-----------------|----------------------|
+| Usuário 1 | 10              | 3                    |
+| Usuário 2 | 2               | 0                    |
+| Usuário 3 | 2               | 0                    |
+| Usuário 4 | 5               | 2                    | 
 
 ### Interpretação
 
 A partir da tabela, podemos observar que:
 
-- O tempo médio gasto foi de **15 minutos**.
-- O número médio de erros foi de **2,4 erros** por sessão.
+- Os usuários demoraram mais para realizar as seguintes atividades:
+  1. Atividade 3:
+  2. Atividade 4:
+  3. Atividade 7: 
+  
+- O número médio de erros foi de **4 erros** por usuário.
 
 ### Dificuldades Identificadas
 
