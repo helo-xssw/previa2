@@ -41,6 +41,28 @@ Os dados coletados foram organizados em tabelas e gráficos, permitindo uma visu
 
 Apesar de alguns usuários enfrentarem dificuldades ao realizar uma tarefa, todos conseguiram finalizar as 8 tarefas propostas. Portanto a taxa de sucesso foi de **100%**. 
 
+### Satisfação do Usuário 
+
+ Para medir a **satisfação do usuário** foi utilizado um teste baseado do *System Usability Scale* com 10 afirmativas onde o usuário poderia responder com uma escala de 1= Discordo totalmente e 5= Concordo totalmente.
+
+- **Tabela com as afirmativas e respostas dos usuários:**
+
+  | Número | Afirmativa | Usuário 1 | Usuário 2 | Usuário 3 | Usuário 4 |
+  |--------|------------|-----------|-----------|-----------|-----------|
+  | 1      | "Eu acho que gostaria de usar este sistema com frequência." |     1     |     2      |    5       |     2      |
+  | 2      | "Eu achei o sistema desnecessariamente complicado." |     3     |      3     |    5       |     2      |
+  | 3      | "Eu achei as funcionalidades do sistema fáceis de usar."|     3     |      2     |     5      |     3      |
+  | 4      | "Eu preciso de apoio técnico para poder usar este sistema."|     2     |     5      |     5      |     3      |
+  | 5      | "Eu acho que o sistema é bem intuitivo."|     2     |      2     |      5     |     3      |
+  | 6      | "Eu fico frustrado(a) ao usar o sistema."|     2     |       3    |      5     |     3      |
+  | 7      | "O sistema me ajudou a realizar minhas tarefas rapidamente."|     1     |       2    |      5     |     3      |
+  | 8      | "Eu gostaria que houvesse mais funcionalidades neste sistema."|     5     |        5   |       1    |     4      |
+  | 9      | "Eu me sinto confortável usando o sistema."|     3     |       2    |       5    |     3      |
+  | 10     | "Eu acho que, na maioria das vezes, o sistema é muito instável."|     5     |       5    |       3    |     1      |
+  
+  
+
+
 ### Interpretação
 
 A partir da tabela, podemos observar que:
@@ -57,11 +79,7 @@ A partir da tabela, podemos observar que:
 
 ### Dificuldades Identificadas
 
-Os participantes que levaram mais tempo (20 minutos) também apresentaram um maior número de erros (4 erros), indicando uma possível dificuldade com a tarefa.
-
-#### Gráficos
-
-![Gráfico de Barras](gráficos/grafico_barras.png)
+Os participantes que nunca utilizaram um *e-commerce* foram os que obtiveram maior dificuldade ao usar o aplicativo, e isso fica explícito ao analisarmos a tabela de erros e solicitação de ajuda.
 
 ## Análise Qualitativa
 
@@ -71,7 +89,7 @@ Durante as entrevistas, foram identificados diversos problemas enfrentados pelos
 
 | Problema                              | Fator de Usabilidade       |
 |---------------------------------------|----------------------------|
-| Dificuldade em encontrar a opção X    | Facilidade de Aprendizado  |
+| Dificuldade em encontrar a opção filtro na tela de busca do produto.  | Facilidade de Aprendizado  |
 | Confusão com o layout                 | Eficiência de Uso          |
 | Erros frequentes ao inserir dados     | Prevenção de Erros        |
 | Baixa satisfação com a interface      | Satisfação de Uso          |
