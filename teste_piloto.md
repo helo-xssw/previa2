@@ -11,10 +11,10 @@ O teste piloto foi realizado com um dos participantes selecionados para validar 
 
 |    Número   |         Tarefa          |   Especificação  |
 |-------------|-------------------------|------------------|
-|1|  **Navegar na Homepage**   | O particante deve abrir o aplicativo e identificar as principais seções da homepage.|
+|1|  **Navegar na Homepage**   | O participante deve abrir o aplicativo e identificar as principais seções da homepage.|
 |2| **Buscar um Produto Específico** | É solicitado que o participante busque um produto específico no aplicativo.     |
 |3| **Filtrar Resultados** | Após a busca pelo produto o participante deve aplicar filtros (ex: preço ou avaliação).|
-|4| **Verificar a Página do Produto** | O particpante deve acessar a página de um produto e verificar informações como descrição, preço e avaliações.|
+|4| **Verificar a Página do Produto** | O participante deve acessar a página de um produto e verificar informações como descrição, preço e avaliações.|
 |5| **Adicionar um Produto ao carrinho** | O participante deve adicionar o item buscado no carrinho.|
 |6| **Selecionar Cor e Quantidade do Produto** | Durante o processo de adicionar o item ao carrinho o participante deve escolher uma cor específica e adicionar a quantidade desejada.|
 |7| **Finalizar uma Compra** | O participante deve simular uma compra. |
