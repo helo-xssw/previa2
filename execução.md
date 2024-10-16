@@ -26,7 +26,7 @@ Os avaliadores forneceram as seguintes orientações aos participantes durante o
 
 ### Conclusão do Teste
 
-Após a conclusão das tarefas, os avaliadores agradeceram aos participantes pela colaboração e solicitaram feedback adicional sobre a experiência geral. Esse feedback foi considerado crucial para futuras iterações do aplicativo.
+Após a conclusão das tarefas, os avaliadores agradeceram aos participantes pela colaboração e solicitaram mais um feedback dos usuários por meio de um questionário para medir a satisfação dos participantes ao usar o aplicativo.
 
 ## Resultados
 
