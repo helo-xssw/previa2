@@ -6,8 +6,8 @@ Nesta seção, descreveremos como o ambiente do teste foi configurado, além de 
 
 O ambiente de teste foi cuidadosamente preparado para garantir que os participantes pudessem interagir com o aplicativo em condições ideais. As etapas de configuração incluíram:
 
-1. **Escolha do Local:** O teste foi realizado em uma sala silenciosa, equipada com um notebook onde o facilitador podia visualizar através da transmissão de tela, o dispositivo movél do participante e a sua interação com o aplcativo.
-2. **Equipamentos:** Foram utilizados os dispostivos movéis de cada particpante e o notebook do facilitador para realização do teste.
+1. **Escolha do Local:** O teste foi realizado em uma sala silenciosa, equipada com um notebook onde o facilitador podia visualizar através da transmissão de tela o dispositivo movél do participante e a sua interação com o aplcativo.
+3. **Equipamentos:** Foram utilizados os dispostivos movéis de cada particpante e o notebook do facilitador para realização do teste.
 
 ## Recrutamento dos Participantes
 
