@@ -1,8 +1,19 @@
 # Análise de Resultados 
 
+Nesta seção, apresentamos a análise do teste de usabilidade, onde foram examinados os dados coletados durante as sessões de teste. A análise envolveu a avaliação das tarefas completadas, o tempo gasto por cada participante e os níveis de satisfação expressos nas respostas ao questionário. Além disso, identificamos padrões de comportamento e possíveis dificuldades enfrentadas pelos usuários, destacando tanto os pontos fortes quanto as áreas que necessitam de melhorias. As conclusões foram extraídas com base nas métricas quantitativas e qualitativas, proporcionando uma visão abrangente da experiência do usuário e orientações para futuras iterações do design. 
+
 ## Análise Quantitativa
 
-Os dados coletados foram organizados em uma tabela, onde registramos o tempo gasto em minutos e o número de erros cometidos durante a tarefa.
+Os dados coletados foram organizados em tabelas e gráficos, permitindo uma visualização clara das métricas de sucesso, tempo gasto, erros cometidos e níveis de satisfação. Essa estrutura facilitou a análise e a interpretação das informações. 
+
+### Tempo Médio Gasto por Usuário
+
+| Usuário   | Atividade 1 | Atividade 2 | Atividade 3 | Atividade 4 | Atividade 5 | Atividade 6 | Atividade 7 | Atividade 8 | Tempo Médio (min) |
+|-----------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------------|
+| Usuário 1 | 2m 24s | 35s | 4m 08s | 2m 26s | 30s | 25s | 4m 42s | 45s |  |
+| Usuário 2 | 54s | 16s | 24s | 20s | 28s | 37s | 30s | 23s |  |
+| Usuário 3 | 52s | 17s | 1m 11s | 1m 41s | 12s | 10s | 1m 2s | 40s |  |
+| Usuário 4 | 41s | 41s | 18s | 4m 43s | 49s | 24s | 49s | 51s |  |
 
 ### Interpretação
 
